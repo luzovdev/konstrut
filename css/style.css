@@ -380,7 +380,7 @@ body.ie .ibg img {
   min-height: 100vh;
 }
 .mainblock__content {
-  min-height: 100vh;
+  height: 100vh;
   position: relative;
   z-index: 1;
 }
@@ -393,7 +393,6 @@ body.ie .ibg img {
 }
 
 .content-mainblock {
-  height: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
